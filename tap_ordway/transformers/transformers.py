@@ -73,7 +73,8 @@ class InvoiceTransformer(RecordTransformer):
                     "exchange_rate":data.get("exchange_rate"),
                     "emailed":data.get("emailed"),
                     "reversal_email":data.get("reversal_email"),
-                    "payment_term_id":data.get("payment_term_id")
+                    "payment_term_id":data.get("payment_term_id"),
+                    "discount_display_name": data.get("discount_display_name")
                 }
             )
 
