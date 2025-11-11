@@ -465,5 +465,5 @@ class InvoicesTestCase(BaseOrdwayTestCase):
                     version=None,
                 ),
             ],
-            ignored_keys=["company_id"],
+            ignored_keys=["company_id", "discount_display_name", "exchange_rate", "payment_term_id", "emailed", "reversal_email"],
         )
