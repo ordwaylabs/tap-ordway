@@ -32,12 +32,10 @@ interactions:
           "2020-11-06", "start_date": "2020-10-20", "end_date": "2020-11-19", "billing_run_id":
           "BR-02340", "subtotal": "22160.0", "invoice_tax": "70856.0", "invoice_amount":
           "44735.0", "paid_amount": "46311.0", "balance": "19552.0", "status": "Partially
-          paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "zyu6hwpznfcr8c3c", "currency": "USD",
+          paid", "notes": "", "invoice_pdf_url": "zyu6hwpznfcr8c3c", "currency": "USD",
           "payment_terms": "0", "created_date": "2020-11-06T08:01:30.410Z", "updated_date":
           "2020-11-10T21:27:26.955Z", "created_by": "heeyeg5i@example.com", "updated_by":
-          "s1rkw1w4@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "s1rkw1w4@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01245", "customer_id": "Tf4lCBZLFQwJJHM", "customer_name": "4", "product_id":
           "P-00005", "product_name": "hgaac9t09crpais2k8", "plan_id": "PLN-00013", "plan_name":
           "1z40xx8tjasz8wzu1k4boxa8amedj0ivrk", "charge_id": "CHG-00013", "subscription_line_id":
@@ -70,12 +68,10 @@ interactions:
           "due_date": "2020-10-18", "start_date": "2020-10-18", "end_date": "2021-01-17",
           "billing_run_id": "BR-02010", "subtotal": "26170.0", "invoice_tax": "31694.0",
           "invoice_amount": "74369.0", "paid_amount": "83388.0", "balance": "61611.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "uw5xrchb88qce1gha7lyx4i2x7czd28dat",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "uw5xrchb88qce1gha7lyx4i2x7czd28dat",
           "currency": "USD", "payment_terms": "0", "created_date": "2020-10-18T08:06:03.598Z",
           "updated_date": "2020-11-10T21:46:36.606Z", "created_by": "73tr1lsh@example.com",
-          "updated_by": "022pl4kr@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "022pl4kr@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01748", "customer_id": "uiPfZCmRf6YcmM3", "customer_name": "3au980x27yepxxqvowiqvcnc5xp1n6",
           "product_id": "P-00122", "product_name": "uh40oj4etcnmbhcb99q9esnsy7r3khwv",
           "plan_id": "PLN-00022", "plan_name": "0bl72pu8mca0vez6be3o", "charge_id":
@@ -85,8 +81,7 @@ interactions:
           "list_price": "93161.0", "list_price_base": "Billing Period", "taxable": false,
           "quantity": 79808.0, "discount": "0.0", "effective_price": "77944.0", "line_tax":
           "74460.0", "tax_lines": [], "applied_tiers": "", "custom_fields": {}}, {"line_no":
-          "2", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-01748", "customer_id": "uiPfZCmRf6YcmM3", "customer_name":
+          "2", "subscription_id": "S-01748", "customer_id": "uiPfZCmRf6YcmM3", "customer_name":
           "xiqwi", "product_id": "P-00005", "product_name": "tzgzblnfsna0ic8", "plan_id":
           "PLN-00013", "plan_name": "exg6mf67o5vcw37hga299rl0ticxe0zxxnvq", "charge_id":
           "CHG-00013", "subscription_line_id": "SCHG-01", "charge_name": "wmgqwbqlma52fzgzzasl4ympoxcwjbiw6j6k0",
@@ -127,12 +122,10 @@ interactions:
           "2020-10-27", "due_date": "2020-10-27", "start_date": "2020-10-25", "end_date":
           "2020-11-24", "billing_run_id": "BR-02139", "subtotal": "-79982.0", "invoice_tax":
           "98569.0", "invoice_amount": "-1011.0", "paid_amount": "-66341.0", "balance":
-          "36308.0", "status": "Reversed", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "jtdpf9rjjqt7o21fg3lca8ufnp4rv3a96o69zf3yiuw",
+          "36308.0", "status": "Reversed", "notes": "", "invoice_pdf_url": "jtdpf9rjjqt7o21fg3lca8ufnp4rv3a96o69zf3yiuw",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-10-27T08:04:05.506Z",
           "updated_date": "2020-11-10T00:37:03.713Z", "created_by": "fqk74rq5@example.com",
-          "updated_by": "dchg2seb@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "dchg2seb@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00402", "customer_id": "9E6CBIuooe6l2Ej", "customer_name": "u", "product_id":
           "P-00001", "product_name": "b4g1tlq8j0wmj", "plan_id": "PLN-00001", "plan_name":
           "zbkhffdlytwmoi7", "charge_id": "CHG-00001", "subscription_line_id": "SCHG-01",
@@ -156,12 +149,10 @@ interactions:
           "start_date": "2020-11-09", "end_date": "2020-12-08", "billing_run_id": "BR-02357",
           "subtotal": "47012.0", "invoice_tax": "60505.0", "invoice_amount": "58013.0",
           "paid_amount": "92234.0", "balance": "96565.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "w2e240lqf4m3", "currency": "USD", "payment_terms":
+          "", "invoice_pdf_url": "w2e240lqf4m3", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-10T00:40:20.180Z", "updated_date":
           "2020-11-10T00:40:20.593Z", "created_by": "rkzi5b8y@example.com", "updated_by":
-          "pr1i6tck@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "pr1i6tck@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02645", "customer_id": "1wC78TYXfhGmC63", "customer_name": "6vtrql2o5j4h",
           "product_id": "P-00005", "product_name": "6zjhbcesk7i", "plan_id": "PLN-00013",
           "plan_name": "6o", "charge_id": "CHG-00013", "subscription_line_id": "a0f5w00000GBqSZAA1",
@@ -187,12 +178,10 @@ interactions:
           "2020-10-25", "due_date": "2020-10-25", "start_date": "2020-10-25", "end_date":
           "2020-11-24", "billing_run_id": "BR-02112", "subtotal": "15179.0", "invoice_tax":
           "21289.0", "invoice_amount": "56032.0", "paid_amount": "10898.0", "balance":
-          "2667.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "dtv58tu3odt6u6",
+          "2667.0", "status": "Paid", "notes": "", "invoice_pdf_url": "dtv58tu3odt6u6",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-10-25T08:02:36.644Z",
           "updated_date": "2020-11-10T00:38:08.998Z", "created_by": "61rtkv4t@example.com",
-          "updated_by": "p16fk60d@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "p16fk60d@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00402", "customer_id": "9E6CBIuooe6l2Ej", "customer_name": "3721ow2s3kn", "product_id":
           "P-00001", "product_name": "lxcvz2axrxikol7pa3i23a5xwe0z28xq0bl0", "plan_id":
           "PLN-00001", "plan_name": "ycnokjwvvt8kgyg3hb", "charge_id": "CHG-00001",
@@ -222,12 +211,10 @@ interactions:
           "invoice_date": "2020-11-09", "due_date": "2020-11-09", "start_date": "2020-11-09",
           "end_date": "2020-12-08", "billing_run_id": "BR-02356", "subtotal": "65753.0",
           "invoice_tax": "18566.0", "invoice_amount": "32160.0", "paid_amount": "81092.0",
-          "balance": "50372.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "afvllrgg8qnwa4ao67l1ltdr309n79gzql6w8t47tvzlfbqm",
+          "balance": "50372.0", "status": "Paid", "notes": "", "invoice_pdf_url": "afvllrgg8qnwa4ao67l1ltdr309n79gzql6w8t47tvzlfbqm",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T00:37:20.312Z",
           "updated_date": "2020-11-10T00:37:20.661Z", "created_by": "8a21xws8@example.com",
-          "updated_by": "6yzb03og@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "6yzb03og@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02644", "customer_id": "qY5oMLQj7I3mQw9", "customer_name": "i", "product_id":
           "P-00035", "product_name": "d38q1vlup72ppwqagcv9ua66d9z3i3qcfuvn2ca24597k",
           "plan_id": "PLN-00046", "plan_name": "u23vt5wb5wfvgw9bz05nyrp4npvxxn9xztj5syd1ll",
@@ -260,12 +247,10 @@ interactions:
           "invoice_date": "2020-11-09", "due_date": "2020-11-09", "start_date": "2020-11-09",
           "end_date": "2021-11-08", "billing_run_id": "BR-02358", "subtotal": "69956.0",
           "invoice_tax": "2367.0", "invoice_amount": "99789.0", "paid_amount": "37063.0",
-          "balance": "67317.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "0du4jtq92i7va7frob2k7vlvoilpntcbdbzkmook0yp955qm00",
+          "balance": "67317.0", "status": "Paid", "notes": "", "invoice_pdf_url": "0du4jtq92i7va7frob2k7vlvoilpntcbdbzkmook0yp955qm00",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T00:45:27.086Z",
           "updated_date": "2020-11-10T00:45:27.498Z", "created_by": "jbrjge3j@example.com",
-          "updated_by": "8wzfvl5q@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "8wzfvl5q@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02646", "customer_id": "CcQ7HroNpzgXOqJ", "customer_name": "q", "product_id":
           "P-00001", "product_name": "x2r20zuq", "plan_id": "PLN-00001", "plan_name":
           "6kwx3ie8", "charge_id": "CHG-00001", "subscription_line_id": "a0f5w00000GBqSeAAL",
@@ -297,12 +282,10 @@ interactions:
           "invoice_date": "2020-11-09", "due_date": "2020-11-09", "start_date": "2020-11-09",
           "end_date": "2020-12-08", "billing_run_id": "BR-02359", "subtotal": "49069.0",
           "invoice_tax": "22492.0", "invoice_amount": "10436.0", "paid_amount": "22800.0",
-          "balance": "83373.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "c07ltban7s8coiu4awocgoyvqd2a3ut5xa",
+          "balance": "83373.0", "status": "Paid", "notes": "", "invoice_pdf_url": "c07ltban7s8coiu4awocgoyvqd2a3ut5xa",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T00:50:46.078Z",
           "updated_date": "2020-11-10T00:50:46.398Z", "created_by": "ep8ovskp@example.com",
-          "updated_by": "2uchq4x0@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "2uchq4x0@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02647", "customer_id": "yg7Lyu3eTAq7hf7", "customer_name": "gu663lrmu6pfe5sy556gvr61vg6",
           "product_id": "P-00001", "product_name": "suuu932", "plan_id": "PLN-00001",
           "plan_name": "33lpdo78", "charge_id": "CHG-00001", "subscription_line_id":
@@ -339,12 +322,10 @@ interactions:
           "due_date": "2020-11-09", "start_date": "2020-11-09", "end_date": "2021-02-08",
           "billing_run_id": "BR-02360", "subtotal": "99526.0", "invoice_tax": "97139.0",
           "invoice_amount": "76739.0", "paid_amount": "15894.0", "balance": "39566.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "3bkqfv60wagp8ylr6klj2hx83iq68jrvlnli7fttwnp3tadz6",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "3bkqfv60wagp8ylr6klj2hx83iq68jrvlnli7fttwnp3tadz6",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T00:54:20.292Z",
           "updated_date": "2020-11-10T00:54:31.356Z", "created_by": "5ar6dx4l@example.com",
-          "updated_by": "9ndizj6v@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "9ndizj6v@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02648", "customer_id": "51tVRrQxWgGOXGp", "customer_name": "ci3e1u0nmtiyq9bcgl",
           "product_id": "P-00005", "product_name": "9bv2kb7ouo1olsvn9nsh36meed", "plan_id":
           "PLN-00013", "plan_name": "35cembibbvdxi7y03p6fv72ezgdx6vrjf", "charge_id":
@@ -379,13 +360,11 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "12284.0",
           "invoice_tax": "29899.0", "invoice_amount": "89358.0", "paid_amount": "87365.0",
-          "balance": "67815.0", "status": "Posted", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url":
+          "balance": "67815.0", "status": "Posted", "notes": "", "invoice_pdf_url":
           "gpajeo7qlcp0p9t12vrlvthukz3efrtwc0fxdy3hc3x", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-10T08:03:24.481Z", "updated_date":
           "2020-11-10T08:04:19.322Z", "created_by": "ws5afnyf@example.com", "updated_by":
-          "7ycr5soe@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "7ycr5soe@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00642", "customer_id": "Zs5S48LDfrBksWU", "customer_name": "3ohcn2s9no1hdmh5rybxa9nzu47czjr14bquul7q",
           "product_id": "P-00001", "product_name": "mleco5pk1rff91q", "plan_id": "PLN-00001",
           "plan_name": "w5jqle77pxv75t36vggir6uv08qt389", "charge_id": "CHG-00001",
@@ -412,12 +391,10 @@ interactions:
           "invoice_date": "2020-11-09", "due_date": "2020-11-09", "start_date": "2020-11-09",
           "end_date": "2020-11-09", "billing_run_id": "BR-02362", "subtotal": "37049.0",
           "invoice_tax": "57454.0", "invoice_amount": "31163.0", "paid_amount": "95820.0",
-          "balance": "94782.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "v7fpnwhfpt3",
+          "balance": "94782.0", "status": "Paid", "notes": "", "invoice_pdf_url": "v7fpnwhfpt3",
           "currency": "USD", "payment_terms": "0", "created_date": "2020-11-10T01:10:31.811Z",
           "updated_date": "2020-11-10T01:10:39.216Z", "created_by": "wqjp68zw@example.com",
-          "updated_by": "78ahoj3g@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "78ahoj3g@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02651", "customer_id": "Zs5S48LDfrBksWU", "customer_name": "nz2wwfxbiujot70fjptqf8tgogdbes85rhaa22mwlm",
           "product_id": "P-00195", "product_name": "8qsgo", "plan_id": "PLN-00112",
           "plan_name": "fbi391q1ereduv2p9sle73bv", "charge_id": "CHG-00112", "subscription_line_id":
@@ -453,12 +430,10 @@ interactions:
           "invoice_date": "2020-10-26", "due_date": "2020-10-26", "start_date": "2020-10-26",
           "end_date": "2020-11-25", "billing_run_id": "BR-02113", "subtotal": "75927.0",
           "invoice_tax": "53049.0", "invoice_amount": "96749.0", "paid_amount": "39531.0",
-          "balance": "78994.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "67kbla24penvd6r5t8pqklvfgettef27e6lgkjlj0",
+          "balance": "78994.0", "status": "Paid", "notes": "", "invoice_pdf_url": "67kbla24penvd6r5t8pqklvfgettef27e6lgkjlj0",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-10-26T08:02:37.164Z",
           "updated_date": "2020-11-02T12:01:35.772Z", "created_by": "u8x2kfsh@example.com",
-          "updated_by": "y3ntr66l@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "y3ntr66l@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00415", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "dlkt0uax53iu8cwd0c46r4e83u65zqfqhkcv70ye",
           "product_id": "P-00005", "product_name": "ry7x0v8xi3bg9vu5wwnby5ucho8yb",
           "plan_id": "PLN-00013", "plan_name": "7go40usshya9lh52kkyy3krow31lh5pc2aad4z76",
@@ -491,12 +466,10 @@ interactions:
           "2020-10-19", "due_date": "2020-10-19", "start_date": "2020-10-19", "end_date":
           "2020-11-18", "billing_run_id": "BR-02011", "subtotal": "98775.0", "invoice_tax":
           "48738.0", "invoice_amount": "84628.0", "paid_amount": "25504.0", "balance":
-          "54332.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "2", "currency":
+          "54332.0", "status": "Paid", "notes": "", "invoice_pdf_url": "2", "currency":
           "USD", "payment_terms": "0", "created_date": "2020-10-19T08:02:56.955Z", "updated_date":
           "2020-11-10T18:13:32.963Z", "created_by": "2mkc3xcr@example.com", "updated_by":
-          "ep3vics4@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "ep3vics4@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00318", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "2pewqpvil4hzzp7kp7uq0535d1j8gylv1zutrhgdtdsv",
           "product_id": "P-00005", "product_name": "tkv51faw7gcqw7du5jhnzrd2c", "plan_id":
           "PLN-00013", "plan_name": "5d52sd9yz", "charge_id": "CHG-00013", "subscription_line_id":
@@ -531,13 +504,11 @@ interactions:
           "invoice_date": "2020-11-03", "due_date": "2020-11-03", "start_date": "2020-11-03",
           "end_date": "2020-12-02", "billing_run_id": "BR-02298", "subtotal": "9216.0",
           "invoice_tax": "74764.0", "invoice_amount": "24161.0", "paid_amount": "75443.0",
-          "balance": "93220.0", "status": "Posted", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url":
+          "balance": "93220.0", "status": "Posted", "notes": "", "invoice_pdf_url":
           "838gjdgme01w82isslndmmniclqkzm9ooku7ls98v3feeg", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-03T08:03:10.315Z", "updated_date":
           "2020-11-10T12:02:08.741Z", "created_by": "8vh8apa3@example.com", "updated_by":
-          "dek1y0du@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "dek1y0du@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00121", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "38ri9rsc9w4wjkl2mwduwip1y9vk3auo1zktg5",
           "product_id": "P-00001", "product_name": "dh", "plan_id": "PLN-00001", "plan_name":
           "y0q7", "charge_id": "CHG-00001", "subscription_line_id": "SCHG-01", "charge_name":
@@ -564,12 +535,10 @@ interactions:
           "2020-11-03", "due_date": "2020-11-03", "start_date": "2020-11-03", "end_date":
           "2020-11-03", "billing_run_id": "BR-02320", "subtotal": "96958.0", "invoice_tax":
           "99736.0", "invoice_amount": "9227.0", "paid_amount": "93534.0", "balance":
-          "46711.0", "status": "Partially paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "qexix96a",
+          "46711.0", "status": "Partially paid", "notes": "", "invoice_pdf_url": "qexix96a",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-03T21:34:32.591Z",
           "updated_date": "2020-11-10T12:02:06.046Z", "created_by": "tp2l4fva@example.com",
-          "updated_by": "ecqbih9n@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "ecqbih9n@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02592", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "setukz134xttko3sw41siz4",
           "product_id": "P-00194", "product_name": "3", "plan_id": "PLN-00111", "plan_name":
           "veduwfp3nt2hhrghqnj71vh99f9jiyk4pd4", "charge_id": "a0f5w00000GBnKAAA1",
@@ -578,8 +547,7 @@ interactions:
           "end_date": "-", "unit_price": "59387.0", "list_price": "32242.0", "list_price_base":
           "260.0", "taxable": false, "quantity": 64311.0, "discount": "0.0", "effective_price":
           "36379.0", "line_tax": "31638.0", "tax_lines": [], "applied_tiers": "", "custom_fields":
-          {}}, {"line_no": "2", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-02592", "customer_id": "utXE7bL7Ovmj18h",
+          {}}, {"line_no": "2", "subscription_id": "S-02592", "customer_id": "utXE7bL7Ovmj18h",
           "customer_name": "auwrewj9rwecbs3xmb5yk444u6ca0o2q", "product_id": "P-00194",
           "product_name": "501l52", "plan_id": "PLN-00111", "plan_name": "fqz5i19ky6dz7s263hxc244dwh1b5cmrbbkfh48zf",
           "charge_id": "a0f5w00000GBnKAAA1", "subscription_line_id": "a0f5w00000GBnKAAA1",
@@ -617,12 +585,10 @@ interactions:
           "due_date": "2020-11-03", "start_date": "2020-11-03", "end_date": "2020-12-02",
           "billing_run_id": "BR-02298", "subtotal": "20099.0", "invoice_tax": "1219.0",
           "invoice_amount": "4414.0", "paid_amount": "42993.0", "balance": "18882.0",
-          "status": "Posted", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "iw8b89q8l", "currency":
+          "status": "Posted", "notes": "", "invoice_pdf_url": "iw8b89q8l", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-03T08:03:12.824Z",
           "updated_date": "2020-11-10T12:02:06.581Z", "created_by": "fvwj3wqi@example.com",
-          "updated_by": "hrc9clh2@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "hrc9clh2@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00112", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "2tfy459qlz0doa0uehhmt3quj",
           "product_id": "P-00005", "product_name": "ofcw9i4gcgfe3hhy3bo6po20tkcybvcztkqt",
           "plan_id": "PLN-00013", "plan_name": "l080bcvptgx81aymte5x4k5atvzkk1chx",
@@ -654,12 +620,10 @@ interactions:
           "invoice_date": "2020-09-30", "due_date": "2020-10-30", "start_date": "2020-09-30",
           "end_date": "2020-10-30", "billing_run_id": "BR-01770", "subtotal": "67900.0",
           "invoice_tax": "15763.0", "invoice_amount": "43315.0", "paid_amount": "79075.0",
-          "balance": "85448.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "6yfq64bghnw9o9oye4tvhaiogrg52i89hbel",
+          "balance": "85448.0", "status": "Paid", "notes": "", "invoice_pdf_url": "6yfq64bghnw9o9oye4tvhaiogrg52i89hbel",
           "currency": "USD", "payment_terms": "30", "created_date": "2020-09-30T08:03:24.748Z",
           "updated_date": "2020-11-10T17:46:50.012Z", "created_by": "c126d904@example.com",
-          "updated_by": "88d2ruua@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "88d2ruua@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00582", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "33zbcul4dq17azpoy08lsu8jjzo5p60ysfsjrh1eojy9zu9km",
           "product_id": "P-00001", "product_name": "r3zkkrzmb00jcspkt0", "plan_id":
           "PLN-00001", "plan_name": "54f6psbx4rdhyegiaaulu0uw0cpu06fw7zjt9h2oqfp", "charge_id":
@@ -693,12 +657,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "24957.0", "invoice_tax":
           "31884.0", "invoice_amount": "25886.0", "paid_amount": "43036.0", "balance":
-          "88079.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "z5hgx06s", "currency":
+          "88079.0", "status": "Paid", "notes": "", "invoice_pdf_url": "z5hgx06s", "currency":
           "USD", "payment_terms": "0", "created_date": "2020-11-10T08:03:07.648Z", "updated_date":
           "2020-11-10T08:19:08.801Z", "created_by": "qnxvokfx@example.com", "updated_by":
-          "0z7zx238@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "0z7zx238@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02510", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "0cmvdd308scouwk596yj708hyhito7jk1arhsh",
           "product_id": "P-00001", "product_name": "9vg0q3v0hddra71ilfwi7acf0", "plan_id":
           "PLN-00001", "plan_name": "a32jke6im985wsbznxrdo2jmft38y69a2xfldg1o9gs3uc4b",
@@ -708,8 +670,7 @@ interactions:
           "list_price": "34887.0", "list_price_base": "Billing Period", "taxable": false,
           "quantity": 66314.0, "discount": "31.42857142857143", "effective_price": "23644.0",
           "line_tax": "21963.0", "tax_lines": [], "applied_tiers": "", "custom_fields":
-          {}}, {"line_no": "2", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-00024", "customer_id": "utXE7bL7Ovmj18h",
+          {}}, {"line_no": "2", "subscription_id": "S-00024", "customer_id": "utXE7bL7Ovmj18h",
           "customer_name": "oe00jl2clyj200m3iomnl6ojil3uki7g2b", "product_id": "P-00122",
           "product_name": "jd", "plan_id": "PLN-00022", "plan_name": "0a8lenb9sb9tsjy6btpfhm5qb4n",
           "charge_id": "SCHG-01", "subscription_line_id": "SCHG-01", "charge_name":
@@ -742,12 +703,10 @@ interactions:
           "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09",
           "billing_run_id": "BR-02363", "subtotal": "63186.0", "invoice_tax": "31128.0",
           "invoice_amount": "72584.0", "paid_amount": "56055.0", "balance": "8290.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "nrxq5kh2k9jjvgcv", "currency":
+          "status": "Paid", "notes": "", "invoice_pdf_url": "nrxq5kh2k9jjvgcv", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:13.432Z",
           "updated_date": "2020-11-10T08:05:01.470Z", "created_by": "s9nl28mk@example.com",
-          "updated_by": "ps1t4jvw@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "ps1t4jvw@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00206", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "84nbsn6jiacmjov4hbtkock9mqtzjpfpqsrdrlf03j1",
           "product_id": "P-00001", "product_name": "4dnzhkgr34u", "plan_id": "PLN-00001",
           "plan_name": "p7l1ssvkwlkx6cqza4qbbxdnzm4ttnnr8cdauot0u0", "charge_id": "CHG-00001",
@@ -784,12 +743,10 @@ interactions:
           "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id":
           "BR-02363", "subtotal": "25804.0", "invoice_tax": "51186.0", "invoice_amount":
           "16638.0", "paid_amount": "33245.0", "balance": "76451.0", "status": "Paid",
-          "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "9mh4ckgfzd5tvdrgz33mf6hoyffdt2gd", "currency":
+          "notes": "", "invoice_pdf_url": "9mh4ckgfzd5tvdrgz33mf6hoyffdt2gd", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:15.193Z",
           "updated_date": "2020-11-10T08:17:14.721Z", "created_by": "d2csokd0@example.com",
-          "updated_by": "3fbbygtw@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "3fbbygtw@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00209", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "wo8k5zx7jwprzls5hw5ces87q4yy8eskr4lm",
           "product_id": "P-00001", "product_name": "r6py7e3mf4f4znik", "plan_id": "PLN-00001",
           "plan_name": "ogz71f2lf8v37mr3ygahopjabgowppxkrdqzpc04", "charge_id": "CHG-00001",
@@ -821,12 +778,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "80771.0",
           "invoice_tax": "72545.0", "invoice_amount": "72546.0", "paid_amount": "23141.0",
-          "balance": "60593.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "vx60kj6icpdh08ndbr5lypf6lh3c0b6pkrw",
+          "balance": "60593.0", "status": "Paid", "notes": "", "invoice_pdf_url": "vx60kj6icpdh08ndbr5lypf6lh3c0b6pkrw",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:16.205Z",
           "updated_date": "2020-11-10T08:04:09.766Z", "created_by": "td07084y@example.com",
-          "updated_by": "o8qf8ash@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "o8qf8ash@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00210", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "fe4bi7wdrrlunhcc15y0hu85d3yjl8d038lm9bk8yjnr",
           "product_id": "P-00122", "product_name": "ydc5nf2n0", "plan_id": "PLN-00022",
           "plan_name": "lie5hkl0b0fy14k7cypahvsd5bspz8x07wahuwcpggv", "charge_id": "CHG-00022",
@@ -836,8 +791,7 @@ interactions:
           "43521.0", "list_price_base": "Billing Period", "taxable": false, "quantity":
           80161.0, "discount": "0.0", "effective_price": "99908.0", "line_tax": "81462.0",
           "tax_lines": [], "applied_tiers": "", "custom_fields": {}}, {"line_no": "2",
-          "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-00210", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
+          "subscription_id": "S-00210", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
           "81y7px7kfck34p0ioerwfqoz8ii4bfgz5o85e7e9i1n5sw", "product_id": "P-00005",
           "product_name": "92sz1qkcy1vr5d3tk79mmcglw880e07pzpgr72qkj", "plan_id": "PLN-00013",
           "plan_name": "8a5muyrpmk", "charge_id": "CHG-00013", "subscription_line_id":
@@ -874,12 +828,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "67401.0",
           "invoice_tax": "30673.0", "invoice_amount": "86421.0", "paid_amount": "96678.0",
-          "balance": "80648.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "y9fcyvzgd0i4nitrql81ipt9c2cixnknh7l36x6fxaacxfqx5v",
+          "balance": "80648.0", "status": "Paid", "notes": "", "invoice_pdf_url": "y9fcyvzgd0i4nitrql81ipt9c2cixnknh7l36x6fxaacxfqx5v",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:17.325Z",
           "updated_date": "2020-11-10T08:17:18.801Z", "created_by": "nkdr297u@example.com",
-          "updated_by": "bfa5a01k@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "bfa5a01k@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00416", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "i3h7", "product_id":
           "P-00005", "product_name": "t0v9qzu5o3fhnlppnfo", "plan_id": "PLN-00013",
           "plan_name": "52uto1yby1fm4b4we43az1", "charge_id": "CHG-00013", "subscription_line_id":
@@ -911,12 +863,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "30605.0",
           "invoice_tax": "29162.0", "invoice_amount": "80771.0", "paid_amount": "17169.0",
-          "balance": "43633.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "rzen0ni",
+          "balance": "43633.0", "status": "Paid", "notes": "", "invoice_pdf_url": "rzen0ni",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:18.159Z",
           "updated_date": "2020-11-10T08:04:58.060Z", "created_by": "tnm5xknv@example.com",
-          "updated_by": "6vqvkqvq@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "6vqvkqvq@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00631", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "fx1wtxac851oan5fthng93",
           "product_id": "P-00005", "product_name": "9", "plan_id": "PLN-00013", "plan_name":
           "2ucqt", "charge_id": "CHG-00013", "subscription_line_id": "SCHG-01", "charge_name":
@@ -948,12 +898,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "65126.0", "invoice_tax":
           "51695.0", "invoice_amount": "15471.0", "paid_amount": "58771.0", "balance":
-          "7770.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "lkwqixo9fvj4ay24xv6lx0t45jdpr55l9ikpcn7",
+          "7770.0", "status": "Paid", "notes": "", "invoice_pdf_url": "lkwqixo9fvj4ay24xv6lx0t45jdpr55l9ikpcn7",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:19.154Z",
           "updated_date": "2020-11-10T08:04:56.831Z", "created_by": "ylu2l0gs@example.com",
-          "updated_by": "0z4qz3sd@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "0z4qz3sd@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00632", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "k141zln5c1b37p3qimvcpg4vt",
           "product_id": "P-00005", "product_name": "ponaq31g", "plan_id": "PLN-00013",
           "plan_name": "2r9un2mjzbdrl", "charge_id": "CHG-00013", "subscription_line_id":
@@ -991,12 +939,10 @@ interactions:
           "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363",
           "subtotal": "71923.0", "invoice_tax": "80886.0", "invoice_amount": "68551.0",
           "paid_amount": "76625.0", "balance": "20284.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "vzueze7hvmnvxq7r7tynxlt17oxc5u9977u8ap8hm5u", "currency":
+          "", "invoice_pdf_url": "vzueze7hvmnvxq7r7tynxlt17oxc5u9977u8ap8hm5u", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:20.058Z",
           "updated_date": "2020-11-10T08:17:21.700Z", "created_by": "njmgzhu5@example.com",
-          "updated_by": "l2lt8nci@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "l2lt8nci@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00633", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "20uaa1n5qjl9pxihyi",
           "product_id": "P-00005", "product_name": "q7qfzve2wa0mo6dwpwo0hkze1hfquzitbf5huw0mnj",
           "plan_id": "PLN-00013", "plan_name": "58ptgmaibbnzdr40fsg80m5ejuhg8s7hxogu",
@@ -1033,13 +979,11 @@ interactions:
           "lw53e35qfpk4", "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date":
           "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal":
           "6518.0", "invoice_tax": "10660.0", "invoice_amount": "66827.0", "paid_amount":
-          "44151.0", "balance": "42168.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url":
+          "44151.0", "balance": "42168.0", "status": "Paid", "notes": "", "invoice_pdf_url":
           "bqnd6m4ihy5ktpqsu8c5", "currency": "USD", "payment_terms": "Due on Receipt",
           "created_date": "2020-11-10T08:03:20.867Z", "updated_date": "2020-11-10T08:17:22.286Z",
           "created_by": "h3zo7doy@example.com", "updated_by": "ertr6ogr@example.com",
-          "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-00634", "customer_id":
+          "line_items": [{"line_no": "1", "subscription_id": "S-00634", "customer_id":
           "utXE7bL7Ovmj18h", "customer_name": "6oele4pat1ave84dv9z6hjvpgpspcr", "product_id":
           "P-00005", "product_name": "fnm", "plan_id": "PLN-00013", "plan_name": "0b",
           "charge_id": "CHG-00013", "subscription_line_id": "SCHG-01", "charge_name":
@@ -1072,12 +1016,10 @@ interactions:
           "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id":
           "BR-02363", "subtotal": "4702.0", "invoice_tax": "96509.0", "invoice_amount":
           "99843.0", "paid_amount": "38229.0", "balance": "35787.0", "status": "Paid",
-          "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "wyghtp252r2orkbh62f3i0qwf0e", "currency":
+          "notes": "", "invoice_pdf_url": "wyghtp252r2orkbh62f3i0qwf0e", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:12.502Z",
           "updated_date": "2020-11-10T08:17:11.631Z", "created_by": "irpjb76z@example.com",
-          "updated_by": "n7qy9vsb@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "n7qy9vsb@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00205", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "t8veutxq59ykg9",
           "product_id": "P-00005", "product_name": "3np52qpnixtsxndk0rju0xhz99nl27fl1lh0d8gdxr7a8",
           "plan_id": "PLN-00013", "plan_name": "ai", "charge_id": "CHG-00013", "subscription_line_id":
@@ -1109,12 +1051,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "53190.0",
           "invoice_tax": "62913.0", "invoice_amount": "63444.0", "paid_amount": "32276.0",
-          "balance": "74130.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "ftvkehx0jmn",
+          "balance": "74130.0", "status": "Paid", "notes": "", "invoice_pdf_url": "ftvkehx0jmn",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:11.544Z",
           "updated_date": "2020-11-10T08:04:30.644Z", "created_by": "a7fqhqe5@example.com",
-          "updated_by": "w3ro9l18@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "w3ro9l18@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00204", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "7hvv7ic4fk93onboju5r",
           "product_id": "P-00001", "product_name": "rc64lysah", "plan_id": "PLN-00001",
           "plan_name": "mx8iv04v0b8h3nd2rhth7o", "charge_id": "CHG-00001", "subscription_line_id":
@@ -1151,12 +1091,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "13691.0",
           "invoice_tax": "20965.0", "invoice_amount": "95048.0", "paid_amount": "50548.0",
-          "balance": "17544.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "xbpl5liby8gcuxla28xzo47c456r40y6x3qj9uqn30p5e",
+          "balance": "17544.0", "status": "Paid", "notes": "", "invoice_pdf_url": "xbpl5liby8gcuxla28xzo47c456r40y6x3qj9uqn30p5e",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:14.378Z",
           "updated_date": "2020-11-10T08:17:12.803Z", "created_by": "6nniisbg@example.com",
-          "updated_by": "z8lv43la@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "z8lv43la@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00208", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "zygru48gqez9oca0x7ij70jjr80sumym6p7a",
           "product_id": "P-00005", "product_name": "s5n74yklv8s29shh1tx55yjcnl", "plan_id":
           "PLN-00013", "plan_name": "wdin6htk1arux9e8key5wy9o52h6", "charge_id": "CHG-00013",
@@ -1188,12 +1126,10 @@ interactions:
           "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09",
           "billing_run_id": "BR-02363", "subtotal": "15852.0", "invoice_tax": "53824.0",
           "invoice_amount": "4337.0", "paid_amount": "96256.0", "balance": "35485.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "l7b5f6w1h4z6ku2cbktvrzsbnb6esku19xcf6",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "l7b5f6w1h4z6ku2cbktvrzsbnb6esku19xcf6",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:09.644Z",
           "updated_date": "2020-11-10T08:04:29.575Z", "created_by": "ocgrrxhp@example.com",
-          "updated_by": "kgsayx82@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "kgsayx82@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00202", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "7rhbpvriw34eqyh3mq3zw1kanlz7ouk6cq5cat5l2jn0wcioo",
           "product_id": "P-00005", "product_name": "69yyae69rnr2ac3pqxm81j6n5cpjrpc5t6rknthdi7y8md2ks",
           "plan_id": "PLN-00013", "plan_name": "idy5ttk5x2plkbotpj", "charge_id": "CHG-00013",
@@ -1226,12 +1162,10 @@ interactions:
           "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09",
           "billing_run_id": "BR-02363", "subtotal": "41102.0", "invoice_tax": "15833.0",
           "invoice_amount": "48699.0", "paid_amount": "60380.0", "balance": "57911.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "o", "currency": "USD",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "o", "currency": "USD",
           "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:10.787Z",
           "updated_date": "2020-11-10T08:05:02.787Z", "created_by": "7ogzryx6@example.com",
-          "updated_by": "z7oew69t@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "z7oew69t@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00203", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "oy7p3c1067o", "product_id":
           "P-00005", "product_name": "wmf", "plan_id": "PLN-00013", "plan_name": "0g1i10ehj2jhpixxap9",
           "charge_id": "CHG-00013", "subscription_line_id": "SCHG-01", "charge_name":
@@ -1264,12 +1198,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "72037.0",
           "invoice_tax": "63264.0", "invoice_amount": "57682.0", "paid_amount": "72574.0",
-          "balance": "25165.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "jb7kg92ddy4mytskmbf105nlgtunf88ntrimh5ztwevmh",
+          "balance": "25165.0", "status": "Paid", "notes": "", "invoice_pdf_url": "jb7kg92ddy4mytskmbf105nlgtunf88ntrimh5ztwevmh",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:08.753Z",
           "updated_date": "2020-11-10T08:17:06.397Z", "created_by": "zhxblu3d@example.com",
-          "updated_by": "zmj1kxwv@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "zmj1kxwv@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00193", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "ybofnglqyqgygee6abh4zk55cmh1c7kz3gm1212",
           "product_id": "P-00001", "product_name": "emmrf7mpjz0oi", "plan_id": "PLN-00001",
           "plan_name": "9oen4rn2bhurpwddzz0ioawv9lq4gu62", "charge_id": "CHG-00001",
@@ -1303,12 +1235,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "31093.0", "invoice_tax":
           "35776.0", "invoice_amount": "2231.0", "paid_amount": "1376.0", "balance":
-          "4771.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "kd6o59fqcd9hiwqucz5rjq92hlkmmbgzonnnl9",
+          "4771.0", "status": "Paid", "notes": "", "invoice_pdf_url": "kd6o59fqcd9hiwqucz5rjq92hlkmmbgzonnnl9",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:21.620Z",
           "updated_date": "2020-11-10T08:17:25.130Z", "created_by": "7k5gvswj@example.com",
-          "updated_by": "16o4zmxf@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "16o4zmxf@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00636", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "8u27qlxrq3ndi2vm0hahlj1m52chcgz9xyc5",
           "product_id": "P-00005", "product_name": "39j16lp8dct89skiz1prey9h054xlp3s5vt",
           "plan_id": "PLN-00013", "plan_name": "renk7e6kcz7f2syyzocdnxh7u78misdzqgchj1z6c",
@@ -1348,12 +1278,10 @@ interactions:
           "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363",
           "subtotal": "53138.0", "invoice_tax": "9914.0", "invoice_amount": "72335.0",
           "paid_amount": "42125.0", "balance": "20607.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "bvv1r1tahtk", "currency": "USD", "payment_terms":
+          "", "invoice_pdf_url": "bvv1r1tahtk", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-10T08:03:23.632Z", "updated_date":
           "2020-11-10T08:17:26.670Z", "created_by": "lgmtfhle@example.com", "updated_by":
-          "4lh2ifkg@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "4lh2ifkg@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00638", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "0atuvi4lv83qokug60wo6mfrddevm7wxc4hlwqdl403wg33i",
           "product_id": "P-00001", "product_name": "7g3pnhejtiuyv0gxu63me", "plan_id":
           "PLN-00001", "plan_name": "mfmxm6h05292rpzh53jtvq7ar8wcpnmmn7ic7341qvlx",
@@ -1386,12 +1314,10 @@ interactions:
           "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id":
           "BR-02363", "subtotal": "6106.0", "invoice_tax": "86780.0", "invoice_amount":
           "77741.0", "paid_amount": "79011.0", "balance": "72418.0", "status": "Paid",
-          "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "4cdert04i50i45ia", "currency": "USD", "payment_terms":
+          "notes": "", "invoice_pdf_url": "4cdert04i50i45ia", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-10T08:03:22.676Z", "updated_date":
           "2020-11-10T08:04:14.566Z", "created_by": "1ixpg11r@example.com", "updated_by":
-          "2r0hfngv@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "2r0hfngv@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-00637", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "s47ikggzl41wr3b82qgkjnbm2xbvs1bruqyvc30g2",
           "product_id": "P-00005", "product_name": "8huvjvco8ioqy4kvq8lbo8y5l6ec1a0v9qqf8xz5glcg",
           "plan_id": "PLN-00013", "plan_name": "uuiuwq", "charge_id": "CHG-00013", "subscription_line_id":
@@ -1427,12 +1353,10 @@ interactions:
           "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id":
           "BR-02363", "subtotal": "91537.0", "invoice_tax": "93597.0", "invoice_amount":
           "21539.0", "paid_amount": "16433.0", "balance": "74144.0", "status": "Paid",
-          "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "acadio7ntuz87de8xfb0305y8a2smqujlx37ng",
+          "notes": "", "invoice_pdf_url": "acadio7ntuz87de8xfb0305y8a2smqujlx37ng",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:35.540Z",
           "updated_date": "2020-11-10T08:17:51.846Z", "created_by": "6m7an6k9@example.com",
-          "updated_by": "n4d1mmm6@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "n4d1mmm6@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01110", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "dhrdqn9symhdfyjjhqylkdqfj3vu0z651pupw",
           "product_id": "P-00005", "product_name": "o7jebvkbzqc01mr47mk3nskbi7dq6lu2zgdquivw64",
           "plan_id": "PLN-00013", "plan_name": "y7e15u8iwwykz8b26ge7sws6e5c77uj5vvty6",
@@ -1465,12 +1389,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "53001.0",
           "invoice_tax": "58672.0", "invoice_amount": "31149.0", "paid_amount": "75952.0",
-          "balance": "57716.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "g3s10yf0sstg5kengyns058drcrb35rttnkqfyx7y",
+          "balance": "57716.0", "status": "Paid", "notes": "", "invoice_pdf_url": "g3s10yf0sstg5kengyns058drcrb35rttnkqfyx7y",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:46.636Z",
           "updated_date": "2020-11-10T08:04:38.969Z", "created_by": "yhtzyzy3@example.com",
-          "updated_by": "2t5u1scd@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "2t5u1scd@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01604", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "d9h85ylidh838x68fx185sofx",
           "product_id": "P-00005", "product_name": "wdsb39nii5", "plan_id": "PLN-00013",
           "plan_name": "v4n8vuly4rl3yda6fak", "charge_id": "CHG-00013", "subscription_line_id":
@@ -1505,12 +1427,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "51045.0",
           "invoice_tax": "90871.0", "invoice_amount": "21035.0", "paid_amount": "38323.0",
-          "balance": "29744.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "snxrg4u86pg25rf2l51uk1062zx9d7l9",
+          "balance": "29744.0", "status": "Paid", "notes": "", "invoice_pdf_url": "snxrg4u86pg25rf2l51uk1062zx9d7l9",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:36.345Z",
           "updated_date": "2020-11-10T08:17:56.255Z", "created_by": "8ziw41zl@example.com",
-          "updated_by": "9gji065v@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "9gji065v@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01601", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "xl52ppg4bxkne4l9xd28wdwfh5w3",
           "product_id": "P-00005", "product_name": "6", "plan_id": "PLN-00013", "plan_name":
           "q357sipot", "charge_id": "CHG-00013", "subscription_line_id": "SCHG-01",
@@ -1545,12 +1465,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "29011.0", "invoice_tax":
           "82803.0", "invoice_amount": "97084.0", "paid_amount": "47701.0", "balance":
-          "85136.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "fr1xsotns9eo1g2on64jk86czivmlzhijvg",
+          "85136.0", "status": "Paid", "notes": "", "invoice_pdf_url": "fr1xsotns9eo1g2on64jk86czivmlzhijvg",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:37.176Z",
           "updated_date": "2020-11-10T08:17:57.865Z", "created_by": "xmoj6i4h@example.com",
-          "updated_by": "9v7rvhqr@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "9v7rvhqr@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01606", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "xmg8w5", "product_id":
           "P-00005", "product_name": "za38bd0cy97k16rig00", "plan_id": "PLN-00013",
           "plan_name": "8digq60nux5thhed04pskwwxbegdoxwfenwz3eobzlj7", "charge_id":
@@ -1588,12 +1506,10 @@ interactions:
           "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id":
           "BR-02363", "subtotal": "99929.0", "invoice_tax": "29177.0", "invoice_amount":
           "55104.0", "paid_amount": "71439.0", "balance": "14656.0", "status": "Paid",
-          "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "5v8q8ooi98c4rwdxcz3jpoc7w11hp806pava7deyr1",
+          "notes": "", "invoice_pdf_url": "5v8q8ooi98c4rwdxcz3jpoc7w11hp806pava7deyr1",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:26.841Z",
           "updated_date": "2020-11-10T08:17:34.574Z", "created_by": "mxeh30hn@example.com",
-          "updated_by": "k3auokwp@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "k3auokwp@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01092", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "jvaadip59sceh384o4ljao8h",
           "product_id": "P-00005", "product_name": "8sjfct91zu7gtk97lc", "plan_id":
           "PLN-00013", "plan_name": "cgrsmi5jj0j1wntxygw3z", "charge_id": "CHG-00013",
@@ -1628,12 +1544,10 @@ interactions:
           "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363",
           "subtotal": "5851.0", "invoice_tax": "52409.0", "invoice_amount": "87380.0",
           "paid_amount": "24124.0", "balance": "45062.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "0etbckj9ct48bm0edwf7dc3b6p4vasbbzexa", "currency":
+          "", "invoice_pdf_url": "0etbckj9ct48bm0edwf7dc3b6p4vasbbzexa", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:27.602Z",
           "updated_date": "2020-11-10T08:17:35.243Z", "created_by": "qkamfx7i@example.com",
-          "updated_by": "qfp1h0tl@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "qfp1h0tl@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01093", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "2erfsekzrf4q7",
           "product_id": "P-00005", "product_name": "sogcmgk0aj69bshb6wq2gip9lm5hy",
           "plan_id": "PLN-00013", "plan_name": "ii64w7p9snne8y10dzg27tjevonn", "charge_id":
@@ -1671,12 +1585,10 @@ interactions:
           "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363",
           "subtotal": "50141.0", "invoice_tax": "87717.0", "invoice_amount": "14798.0",
           "paid_amount": "59983.0", "balance": "99300.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "71", "currency": "USD", "payment_terms": "Due on Receipt",
+          "", "invoice_pdf_url": "71", "currency": "USD", "payment_terms": "Due on Receipt",
           "created_date": "2020-11-10T08:03:29.534Z", "updated_date": "2020-11-10T08:17:41.180Z",
           "created_by": "y9ryaz5m@example.com", "updated_by": "25t0fr99@example.com",
-          "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-01095", "customer_id":
+          "line_items": [{"line_no": "1", "subscription_id": "S-01095", "customer_id":
           "utXE7bL7Ovmj18h", "customer_name": "wwtuxz1leovppnjfij5bik4oj", "product_id":
           "P-00001", "product_name": "2dzzuqlysnff8euoo2o1sbo4jd1srqr4m4tbi6e53", "plan_id":
           "PLN-00001", "plan_name": "mxs61umyuthd0ou861cx1ak94nwbgff5ezhv28", "charge_id":
@@ -1712,12 +1624,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-10-12",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "1785.0",
           "invoice_tax": "19475.0", "invoice_amount": "10104.0", "paid_amount": "79373.0",
-          "balance": "23346.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "4i05duljcqtnndtjwmdffbvm85bf7dosztq54m53apcf9a",
+          "balance": "23346.0", "status": "Paid", "notes": "", "invoice_pdf_url": "4i05duljcqtnndtjwmdffbvm85bf7dosztq54m53apcf9a",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:28.352Z",
           "updated_date": "2020-11-10T08:17:36.922Z", "created_by": "yjee21ra@example.com",
-          "updated_by": "w7m78i9n@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "w7m78i9n@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-02162", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "9b53jcgqz1j1ugggszn7hi27khadgei5t8wmmqodp4vzc68",
           "product_id": "P-00122", "product_name": "a6u0hjzcn37ydapc4p", "plan_id":
           "PLN-00022", "plan_name": "sn88oyl6wiewkiqugdj7ph682f", "charge_id": "CHG-00022",
@@ -1727,8 +1637,7 @@ interactions:
           "list_price": "17954.0", "list_price_base": "Billing Period", "taxable": false,
           "quantity": 74084.0, "discount": "0.0", "effective_price": "11258.0", "line_tax":
           "64543.0", "tax_lines": [], "applied_tiers": "", "custom_fields": {}}, {"line_no":
-          "2", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-02162", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
+          "2", "subscription_id": "S-02162", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
           "4sogam0c8s5jkmn07djzes5hv9ku", "product_id": "P-00122", "product_name": "45vgq0i48d7zi",
           "plan_id": "PLN-00022", "plan_name": "jwmxp40btm", "charge_id": "CHG-00022",
           "subscription_line_id": "a0f5w00000GBZnGAAX", "charge_name": "hcmugir10oureoe",
@@ -1737,8 +1646,7 @@ interactions:
           "list_price": "40800.0", "list_price_base": "Billing Period", "taxable": false,
           "quantity": 65492.0, "discount": "0.0", "effective_price": "58473.0", "line_tax":
           "15107.0", "tax_lines": [], "applied_tiers": "", "custom_fields": {}}, {"line_no":
-          "3", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id": "S-01094", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
+          "3", "subscription_id": "S-01094", "customer_id": "utXE7bL7Ovmj18h", "customer_name":
           "v6tgp8nwvwj8bjr87on", "product_id": "P-00035", "product_name": "3fwt", "plan_id":
           "PLN-00046", "plan_name": "ug2r7x2jrj8344", "charge_id": "CHG-00046", "subscription_line_id":
           "SCHG-01", "charge_name": "7hcs2pn1dcuqudy6d3ck6eymn90imieg710tfu6xbrfgezyu0",
@@ -1774,12 +1682,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "65442.0", "invoice_tax":
           "5627.0", "invoice_amount": "98007.0", "paid_amount": "60738.0", "balance":
-          "40013.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "wwhhzpjdll6z4gxqyjh5i2ntrnrtgsmok8eajv8n",
+          "40013.0", "status": "Paid", "notes": "", "invoice_pdf_url": "wwhhzpjdll6z4gxqyjh5i2ntrnrtgsmok8eajv8n",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:42.866Z",
           "updated_date": "2020-11-10T08:18:07.814Z", "created_by": "xka9ycap@example.com",
-          "updated_by": "trelktme@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "trelktme@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01615", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "kd3xx8js6pq97zwgbn22a0d40sf",
           "product_id": "P-00005", "product_name": "xeec1c1b51dzyyg6w8tggj40udak3i",
           "plan_id": "PLN-00013", "plan_name": "ttagncvtkw89xp2h4jy9u02s9a19glp8m169mkr7duqmrh",
@@ -1815,12 +1721,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "68875.0",
           "invoice_tax": "18560.0", "invoice_amount": "66018.0", "paid_amount": "26505.0",
-          "balance": "36832.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "b6tckv2e0inpvl1w",
+          "balance": "36832.0", "status": "Paid", "notes": "", "invoice_pdf_url": "b6tckv2e0inpvl1w",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:43.607Z",
           "updated_date": "2020-11-10T08:18:09.217Z", "created_by": "2adz0jqv@example.com",
-          "updated_by": "ko6j7yer@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "ko6j7yer@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01643", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "e2kje04g9553cq00p4adcnchwrc6y6v0",
           "product_id": "P-00005", "product_name": "w1vb1gxl26", "plan_id": "PLN-00013",
           "plan_name": "icz6fqu55ibms4jixl2ehilun6xu", "charge_id": "CHG-00013", "subscription_line_id":
@@ -1853,13 +1757,11 @@ interactions:
           "p7", "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date":
           "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal":
           "39333.0", "invoice_tax": "10544.0", "invoice_amount": "19325.0", "paid_amount":
-          "23732.0", "balance": "26770.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url":
+          "23732.0", "balance": "26770.0", "status": "Paid", "notes": "", "invoice_pdf_url":
           "g4t7zci0med3r9j1javionliku4fshematn73k", "currency": "USD", "payment_terms":
           "Due on Receipt", "created_date": "2020-11-10T08:03:44.389Z", "updated_date":
           "2020-11-10T08:18:11.658Z", "created_by": "1kqi1e2k@example.com", "updated_by":
-          "1xqpfsqa@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "1xqpfsqa@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01644", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "0i8di3jdqyhp1u48lfbo9a3j",
           "product_id": "P-00001", "product_name": "k8", "plan_id": "PLN-00001", "plan_name":
           "boa4ore", "charge_id": "CHG-00001", "subscription_line_id": "SCHG-01", "charge_name":
@@ -1895,12 +1797,10 @@ interactions:
           "start_date": "2020-11-10", "end_date": "2020-12-09", "billing_run_id": "BR-02363",
           "subtotal": "36517.0", "invoice_tax": "52415.0", "invoice_amount": "572.0",
           "paid_amount": "96361.0", "balance": "8778.0", "status": "Paid", "notes":
-          "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "78xrxl5fapba3j79r1geo7rspcj0yqy65usmll88wij60", "currency":
+          "", "invoice_pdf_url": "78xrxl5fapba3j79r1geo7rspcj0yqy65usmll88wij60", "currency":
           "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:45.189Z",
           "updated_date": "2020-11-10T08:18:13.648Z", "created_by": "yxb6i0nd@example.com",
-          "updated_by": "5c0nxk5i@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "5c0nxk5i@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01645", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "xw7s", "product_id":
           "P-00005", "product_name": "tjvcmsq1", "plan_id": "PLN-00013", "plan_name":
           "ht3uuzde9cbbsnb6i58vsr6jdmdx", "charge_id": "SCHG-01", "subscription_line_id":
@@ -1934,12 +1834,10 @@ interactions:
           "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09",
           "billing_run_id": "BR-02363", "subtotal": "1118.0", "invoice_tax": "35171.0",
           "invoice_amount": "6553.0", "paid_amount": "11352.0", "balance": "49803.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "mh37v3ud9ftv2d31728rfscttvwbhi7m8z0zq1v",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "mh37v3ud9ftv2d31728rfscttvwbhi7m8z0zq1v",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:30.247Z",
           "updated_date": "2020-11-10T08:17:42.082Z", "created_by": "4iqevax0@example.com",
-          "updated_by": "lh9dng2c@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "lh9dng2c@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01096", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "3tz17vry2w8d7nxn0xuk3fx6pjzz4vopufjz5xyvgery7wgat",
           "product_id": "P-00001", "product_name": "6abh4wponcvr17ddluld8hf534yvqaljj",
           "plan_id": "PLN-00001", "plan_name": "c77jb4cuxt5rps9r7oan6zvf1o8asztc3n054hx53oy",
@@ -1977,12 +1875,10 @@ interactions:
           "invoice_date": "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10",
           "end_date": "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "8734.0",
           "invoice_tax": "76530.0", "invoice_amount": "22749.0", "paid_amount": "59793.0",
-          "balance": "13343.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "wen1s0lz3qlmjcfsx",
+          "balance": "13343.0", "status": "Paid", "notes": "", "invoice_pdf_url": "wen1s0lz3qlmjcfsx",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:30.994Z",
           "updated_date": "2020-11-10T08:17:42.683Z", "created_by": "eu0mf177@example.com",
-          "updated_by": "wq2f5me2@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "wq2f5me2@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01097", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "mw0p689yl4ki",
           "product_id": "P-00005", "product_name": "xm9wu", "plan_id": "PLN-00013",
           "plan_name": "nootwx", "charge_id": "CHG-00013", "subscription_line_id": "SCHG-01",
@@ -2016,12 +1912,10 @@ interactions:
           "2020-11-10", "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date":
           "2020-12-09", "billing_run_id": "BR-02363", "subtotal": "46001.0", "invoice_tax":
           "60119.0", "invoice_amount": "27209.0", "paid_amount": "37584.0", "balance":
-          "20955.0", "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "u2whweymnx665zd4c6jz5i1k9",
+          "20955.0", "status": "Paid", "notes": "", "invoice_pdf_url": "u2whweymnx665zd4c6jz5i1k9",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:31.765Z",
           "updated_date": "2020-11-10T08:17:43.808Z", "created_by": "mrfiqz63@example.com",
-          "updated_by": "68ut8iat@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "68ut8iat@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01102", "customer_id": "utXE7bL7Ovmj18h", "customer_name": "uydmq4ig42cv35m3bi6",
           "product_id": "P-00001", "product_name": "mmx4jz32qr10jxk2cibzxcsokzw", "plan_id":
           "PLN-00001", "plan_name": "roa", "charge_id": "CHG-00001", "subscription_line_id":
@@ -2128,12 +2022,10 @@ interactions:
           "due_date": "2020-11-10", "start_date": "2020-11-10", "end_date": "2020-12-09",
           "billing_run_id": "BR-02363", "subtotal": "57006.0", "invoice_tax": "88965.0",
           "invoice_amount": "49136.0", "paid_amount": "59809.0", "balance": "14074.0",
-          "status": "Paid", "notes": "", "": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false,  "invoice_pdf_url": "6pr7xk09fd7x4a3z7211cwrycq3vbxdbk8pm2r1jz64",
+          "status": "Paid", "notes": "", "invoice_pdf_url": "6pr7xk09fd7x4a3z7211cwrycq3vbxdbk8pm2r1jz64",
           "currency": "USD", "payment_terms": "Due on Receipt", "created_date": "2020-11-10T08:03:37.974Z",
           "updated_date": "2020-11-10T08:17:59.594Z", "created_by": "wx8626qy@example.com",
-          "updated_by": "lxkxssmk@example.com", "line_items": [{"line_no": "1", "discount_display_name": "", "exchange_rate": 1, "payment_term_id": 1,
-          "emailed": true, "reversal_email": false, "subscription_id":
+          "updated_by": "lxkxssmk@example.com", "line_items": [{"line_no": "1", "subscription_id":
           "S-01607", "customer_id": "mvlm8gBHhTf1mB6", "customer_name": "ysvxvza0otzb73qmdomlsaa7sf5isdco6kq1oza",
           "product_id": "P-00005", "product_name": "kz3kn03qcw7v0a2ceg", "plan_id":
           "PLN-00013", "plan_name": "10hjst75p1ls0ckhado0xpno2h101fqgulb1y8zal", "charge_id":
