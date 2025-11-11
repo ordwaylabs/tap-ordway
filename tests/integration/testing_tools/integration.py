@@ -388,7 +388,6 @@ class TapIntegrationTestCase(BaseTestCase):
         found = False
         for message_ele in self.tap_executor.output.filter_messages(**args):  # type: ignore
             message = message_ele.message
-            print(f"Checking message: {message}")
 
             if not isinstance(message, type(search_message)):
                 continue

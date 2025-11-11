@@ -268,6 +268,7 @@ class InvoicesTestCase(BaseOrdwayTestCase):
                         "created_date": "2020-10-18T08:06:03.598000Z",
                         "created_by": "73tr1lsh@example.com",
                         "updated_by": "022pl4kr@example.com",
+                        "invoice_pdf_url": "uw5xrchb88qce1gha7lyx4i2x7czd28dat"
                     },
                     version=None,
                 ),
@@ -353,6 +354,7 @@ class InvoicesTestCase(BaseOrdwayTestCase):
                         "created_date": "2020-10-18T08:06:03.598000Z",
                         "created_by": "73tr1lsh@example.com",
                         "updated_by": "022pl4kr@example.com",
+                        "invoice_pdf_url": "uw5xrchb88qce1gha7lyx4i2x7czd28dat"
                     },
                     version=None,
                 ),
@@ -438,6 +440,7 @@ class InvoicesTestCase(BaseOrdwayTestCase):
                         "created_date": "2020-11-10T08:03:37.974000Z",
                         "created_by": "wx8626qy@example.com",
                         "updated_by": "lxkxssmk@example.com",
+                        "invoice_pdf_url": "6pr7xk09fd7x4a3z7211cwrycq3vbxdbk8pm2r1jz64"
                     },
                     version=None,
                 ),
