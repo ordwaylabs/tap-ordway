@@ -182,6 +182,7 @@ class InvoicesTestCase(BaseOrdwayTestCase):
                         "created_date": "2020-11-06T08:01:30.410000Z",
                         "created_by": "heeyeg5i@example.com",
                         "updated_by": "s1rkw1w4@example.com",
+                        "invoice_pdf_url": "zyu6hwpznfcr8c3c"
                     },
                     version=None,
                 ),
